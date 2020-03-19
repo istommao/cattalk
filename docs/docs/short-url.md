@@ -6,4 +6,4 @@ nav:
 
 # 短链接工具
 
-http://s.cattalk.in/
+https://s.cattalk.in/
